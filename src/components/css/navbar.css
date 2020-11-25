@@ -1,8 +1,12 @@
 .navbar-brand {
-	color: pink;
+	color: rgb(152, 7, 248);
 	font-weight: 700
 }
 
 .form-inline{
-	color: pink
+    color: rgb(255, 0, 0)
 }
+div>{
+    color: red
+}
+

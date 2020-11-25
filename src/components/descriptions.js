@@ -8,8 +8,8 @@ function Descriptions() {
         <div className = 'col'>
           <h5 className = 'title-text'>Real Cats</h5>
           <p className = 'sub-text'>
-            Contrary to popular belief, cats aren't loners. At furbook, we know cats need friendship, affection, and comradery. It is 						  our core belief that beneath every cat's hard, angry, exterior there is a pet who jus wants to play and cuddle with a						        friend</p>
-        </div>
+            Contrary to popular belief, Cats are believed to be the only mammals who don't taste sweetness. Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans. Cats are supposed to have 18 toes (five toes on each front paw; four toes on each back paw). Cats can jump up to six times their length.</p>
+            </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Dogs</h5>
           <p className = 'sub-text'>
